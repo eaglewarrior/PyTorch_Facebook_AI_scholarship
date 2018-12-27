@@ -5,3 +5,15 @@ This repository contains all the concepts  code and project I will do in Pytorch
 
 
 The whole course content of scholarship is available at https://in.udacity.com/course/deep-learning-pytorch--ud188  only difference is we will get a final lab challenge where we have to build a image classifier to classify 120 species of flowers .
+
+# Style Transfer
+
+
+
+# RNN 
+
+https://www.kaggle.com/rinki24/rnn-practice
+
+# Sentiment analysis using RNN
+
+https://www.kaggle.com/rinki24/sentiment-analysis-with-rnn
